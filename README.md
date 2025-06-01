@@ -1,2 +1,2 @@
 # llm-zoomcamp
-Summer 20025 DataTalks LLM-Zoomcamp
+Summer 2025 DataTalks LLM-Zoomcamp
