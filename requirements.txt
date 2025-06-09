@@ -1,6 +1,6 @@
 openai
 tqdm
 scikit-learn
-elasticsearch
+elasticsearch==8.4.3
 notebook==7.1.2
 pandas
