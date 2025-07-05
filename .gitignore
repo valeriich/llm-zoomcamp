@@ -197,3 +197,4 @@ cython_debug/
 .cursorindexingignore
 
 qdrant_storage/
+db.qdrant/
